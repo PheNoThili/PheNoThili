@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My Name is Pathirana KPTP  
+⚡ I'am A UG student at SLIIT ⚡
+
+Registration Number : IT20003364  
+GitHub UserName : PheNoThili
 
 <!--
 **PheNoThili/PheNoThili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
